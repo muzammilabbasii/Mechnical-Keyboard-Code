@@ -98,6 +98,7 @@ Connect both halves to your PC via USB.
 
 📸 Example Build
 
+![Keyboard Build](IMG20250901223742.jpg)
 
 
 🤝 Contributing
