@@ -97,7 +97,9 @@ Flash keyboard_righthand.code.ino onto the right-hand side.
 Connect both halves to your PC via USB.
 
 📸 Example Build
-![Alt text](image/IMG20250901223742.jpg)
+
+![Mechanical Keyboard](images/IMG20250901223742.jpg)
+
 
 
 🤝 Contributing
